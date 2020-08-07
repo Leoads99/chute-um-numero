@@ -24,3 +24,5 @@ Detalhes e boas Práticas: Você deve criar um projeto para rodar na linha de co
 Considerando os três possíveis caminhos que podem ser seguidos, você deve cuidar para que em todo o momento a entrada de dados seja tratado para exceções e que caso o usuário digite algo inesperado, que ele receba uma mensagem amigável o informando das possíveis opções que seu programa oferece. 
 
 Isso deve continuar acontecendo indefinitivamente até que a pessoa acerte o número ou desista por não conseguir acertar hahaha (acontece).
+
+FONTE: https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/
