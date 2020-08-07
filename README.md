@@ -18,7 +18,9 @@ Detalhes e boas Práticas: Você deve criar um projeto para rodar na linha de co
 *Depois disso você terá 3 caminhos possíveis:* 
 
 **1. Avisar que a pessoa chutou baixo.**
+
 **2. Dizer que chutou alto.**
+
 **3. Parabenizar dizer que acertou!**
 
 Considerando os três possíveis caminhos que podem ser seguidos, você deve cuidar para que em todo o momento a entrada de dados seja tratado para exceções e que caso o usuário digite algo inesperado, que ele receba uma mensagem amigável o informando das possíveis opções que seu programa oferece. 
